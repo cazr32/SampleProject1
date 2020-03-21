@@ -10,6 +10,7 @@ class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
+		//adding some comments to the test
 		assertTrue(true);
 	}
 
